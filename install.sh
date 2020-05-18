@@ -46,7 +46,7 @@ clear
 echo -e '\e[96m checking for updates |>> please wait  '
 sleep 5
 cd $HOME/ && rm -rf ddos-attack/ && git clone https://github.com/keralahacker/ddos-attack && cd ddos-attack
-
+cd ddos-attack
 chmod +x *
 
 figlet cyber-attack

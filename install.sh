@@ -3,7 +3,7 @@
 echo ""
 echo ""
 echo ""
-read -p $'\e[1;32m\e[0m\e[1;32mT H I S - T O O L - F O R - E D U C A T I O N A l - P U R P O S E S - O N L Y ? \e[1;33m\e[0m\e[1;33m (Y/N) : \e[0m' option
+read -p $'T H I S - T O O L - F O R - E D U C A T I O N A l - P U R P O S E S - O N L Y ? (Y/N) :=>' option
 echo""
 echo""
 echo""
